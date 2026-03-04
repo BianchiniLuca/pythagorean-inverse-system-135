@@ -10,7 +10,7 @@ This repository contains the computational core used to study cyclic seeds built
 
 
 
-Reference preprint (Zenodo):
+Theoretical reference (Zenodo preprint):
 
 https://zenodo.org/records/18497758
 
