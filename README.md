@@ -1,8 +1,6 @@
 \# Pythagorean Inverse System 1–3–5
 
-
-
-\[!\[DOI](https://zenodo.org/badge/github/BianchiniLuca/pythagorean-inverse-system-135.svg)](https://doi.org/10.5281/zenodo.18864170)
+<a href="https://doi.org/10.5281/zenodo.18864170"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18864170.svg" alt="DOI"></a>
 
 
 
