@@ -2,13 +2,11 @@
 
 
 
-\[!\[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18864170.svg)](https://doi.org/10.5281/zenodo.18864170)
+\[!\[DOI](https://zenodo.org/badge/github/BianchiniLuca/pythagorean-inverse-system-135.svg)](https://doi.org/10.5281/zenodo.18864170)
 
 
 
 Research toolbox for enumerating abstract seeds and testing deterministic canon generation in the inverse 1–3–5 system.
-
-
 
 This repository contains the computational core used to study cyclic seeds built from the alphabet {1,3,5} under contrapuntal constraints.
 
