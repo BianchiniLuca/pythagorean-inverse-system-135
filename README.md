@@ -1,6 +1,6 @@
 \# Pythagorean Inverse System 1–3–5
 
-<a href="https://doi.org/10.5281/zenodo.18864170"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18864170.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.18864170"><img src="//img.shields.io/badge/DOI-10.5281%2Fzenodo.18864170-blue" alt="DOI"></a>
 
 
 
