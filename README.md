@@ -2,6 +2,10 @@
 
 
 
+\[!\[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18864170.svg)](https://doi.org/10.5281/zenodo.18864170)
+
+
+
 Research toolbox for enumerating abstract seeds and testing deterministic canon generation in the inverse 1–3–5 system.
 
 
@@ -92,13 +96,13 @@ python examples/prove\_9\_voci.py
 
 src/
 
-&nbsp;   pythagorean\_inverse\_system\_135/
+    pythagorean\_inverse\_system\_135/
 
-&nbsp;       canon.py
+        canon.py
 
-&nbsp;       counting.py
+        counting.py
 
-&nbsp;       validators.py
+        validators.py
 
 
 
