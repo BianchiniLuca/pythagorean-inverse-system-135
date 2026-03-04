@@ -28,19 +28,29 @@ The project explores:
 
 
 
-\## Example
+
+
+\## Examples
 
 
 
-The script:
+Two scripts illustrate the structural limits of the system.
 
 
 
-examples/prove\_9\_voci.py
+\### 8 voices (possible)
 
 
 
-verifies that under the current constraints a canon with 9 voices is impossible.
+examples/find\_seed\_8\_voci.py
+
+
+
+Finds a valid cyclic seed:
+
+
+
+11315335
 
 
 
@@ -48,7 +58,31 @@ Run:
 
 
 
-&nbsp;   python examples/prove\_9\_voci.py
+python examples/find\_seed\_8\_voci.py
+
+
+
+
+
+\### 9 voices (impossible)
+
+
+
+examples/prove\_9\_voci.py
+
+
+
+Verifies that no valid seed exists under the constraints.
+
+
+
+Run:
+
+
+
+python examples/prove\_9\_voci.py
+
+
 
 
 
@@ -56,21 +90,23 @@ Run:
 
 
 
-&nbsp;   src/
+src/
 
-&nbsp;       pythagorean\_inverse\_system\_135/
+&nbsp;   pythagorean\_inverse\_system\_135/
 
-&nbsp;           canon.py
+&nbsp;       canon.py
 
-&nbsp;           counting.py
+&nbsp;       counting.py
 
-&nbsp;           validators.py
+&nbsp;       validators.py
 
 
 
-&nbsp;   examples/
+examples/
 
-&nbsp;   tests/
+tests/
+
+
 
 
 
