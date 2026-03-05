@@ -1,4 +1,4 @@
-\# Pythagorean Inverse System 1–3–5
+# Pythagorean Inverse System 1–3–5
 
 <a href="https://doi.org/10.5281/zenodo.18497758"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18497758-blue" alt="DOI"></a>
 
@@ -30,7 +30,7 @@ The project explores:
 
 
 
-\## Examples
+## Examples
 
 
 
@@ -38,7 +38,7 @@ Two scripts illustrate the structural limits of the system.
 
 
 
-\### 8 voices (possible)
+### 8 voices (possible)
 
 
 
@@ -64,7 +64,7 @@ python examples/find\_seed\_8\_voci.py
 
 
 
-\### 9 voices (impossible)
+### 9 voices (impossible)
 
 
 
@@ -86,7 +86,7 @@ python examples/prove\_9\_voci.py
 
 
 
-\## Project structure
+## Project structure
 
 
 
@@ -110,7 +110,7 @@ tests/
 
 
 
-\## Status
+## Status
 
 
 
@@ -119,4 +119,15 @@ Early research prototype.
 
 
 The long-term goal is to provide composer-oriented functions for automatic canon generation.
+
+
+
+
+## Citation
+
+If you use this software in research, please cite:
+
+Luca Bianchini.  
+*Pythagorean Inverse System 1–3–5*.  
+Zenodo. https://doi.org/10.5281/zenodo.18497758
 
